@@ -1,0 +1,17 @@
+body {
+    background-color: rgb(70, 142, 236);
+    font: normal 1.5rem Arial;
+}
+
+input {
+    font: normal 1.5rem Arial;
+    width: 120px;
+}
+
+#btn {
+    cursor: pointer;
+}
+
+#resultado {
+    margin-top: 20px;
+}
